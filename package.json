@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/naveensingh2799/Node-Js/issues"
   },
-  "homepage": "https://github.com/naveensingh2799/Node-Js#readme"
+  "homepage": "https://github.com/naveensingh2799/Node-Js#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "color": "^4.2.3",
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
 }
