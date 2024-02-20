@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Node Js Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveensingh2799/Node-Js.git"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "Tutorial"
+  ],
+  "author": "Naveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveensingh2799/Node-Js/issues"
+  },
+  "homepage": "https://github.com/naveensingh2799/Node-Js#readme"
+}
